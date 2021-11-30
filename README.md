@@ -11,7 +11,9 @@ Realizado com um time de 25 pessoas, com carga horária de 16h, onde foram abord
 - Linguagem M;
 - Linguagem DAX;
 - Medidas Calculadas;
-- Criação de Dashboard.
+- Criação de Dashboard;
+- Publicando na web;
+- Compartilhando.
 
 E muito mais. 
 
