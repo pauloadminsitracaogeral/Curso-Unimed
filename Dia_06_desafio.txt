@@ -1,0 +1,9 @@
+total vendas brutas
+vendas brutas por modalidade
+vendas brutas por ano (comparativo)
+vendas brutas por mês 
+vendas brutas por bandeira
+taxa média por produto
+filtro de ano 
+filtro de mês
+limpar filtros
