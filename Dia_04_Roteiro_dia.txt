@@ -1,0 +1,8 @@
+Roteiro de aula
+
+1. Importar arquivos
+2. Tratamento dos dados
+3. Relacionamento
+4. Tabela Calendário
+5. Criar medidas
+6. Visual
